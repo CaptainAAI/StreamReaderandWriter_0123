@@ -13,7 +13,11 @@ int main() {
 
 	cout << ">=Menulis file,\'q\untuk keluar" << endl;
 
-	
+	while (true) {
+		cout << "-";
+		//mendapatkan setiap karakter dalam satu baris
+		getline(cin, baris);
+	}
 
 
 	
