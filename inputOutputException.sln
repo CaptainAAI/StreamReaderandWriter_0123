@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "inputOutputException", "inputOutputException\inputOutputException.vcxproj", "{FF324FFA-FCF4-427E-8244-6C87ADAD27CC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PathFile", "PathFile\PathFile.vcxproj", "{FC83227A-FE0B-4ED4-864E-D8E6124354CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{FF324FFA-FCF4-427E-8244-6C87ADAD27CC}.Release|x64.Build.0 = Release|x64
 		{FF324FFA-FCF4-427E-8244-6C87ADAD27CC}.Release|x86.ActiveCfg = Release|Win32
 		{FF324FFA-FCF4-427E-8244-6C87ADAD27CC}.Release|x86.Build.0 = Release|Win32
+		{FC83227A-FE0B-4ED4-864E-D8E6124354CD}.Debug|x64.ActiveCfg = Debug|x64
+		{FC83227A-FE0B-4ED4-864E-D8E6124354CD}.Debug|x64.Build.0 = Debug|x64
+		{FC83227A-FE0B-4ED4-864E-D8E6124354CD}.Debug|x86.ActiveCfg = Debug|Win32
+		{FC83227A-FE0B-4ED4-864E-D8E6124354CD}.Debug|x86.Build.0 = Debug|Win32
+		{FC83227A-FE0B-4ED4-864E-D8E6124354CD}.Release|x64.ActiveCfg = Release|x64
+		{FC83227A-FE0B-4ED4-864E-D8E6124354CD}.Release|x64.Build.0 = Release|x64
+		{FC83227A-FE0B-4ED4-864E-D8E6124354CD}.Release|x86.ActiveCfg = Release|Win32
+		{FC83227A-FE0B-4ED4-864E-D8E6124354CD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
