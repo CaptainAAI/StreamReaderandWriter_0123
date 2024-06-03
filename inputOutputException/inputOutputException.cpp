@@ -27,6 +27,8 @@ int main() {
 
 	//membuuka file dalam mode membaca
 	ifstream infile;
+	//menunjuk se sebuah file
+	infile.open("FatanKayang.txt");
 
 	
 }
