@@ -11,7 +11,7 @@ int main() {
 	//menunjuk ke sebuah nama file
 	outfile.open("FatanKayang.txt");
 
-	cout << ">=Menulis file,\'q\untuk keluar" << endl;
+	cout << ">=Menulis file,\'q\'untuk keluar" << endl;
 
 	while (true) {
 		cout << "-";
@@ -22,7 +22,8 @@ int main() {
 		//menulis dan memasukan nilai dari 'baris' ke dalam file
 		outfile << baris << endl;
 	}
-
+	//selesai dalam menulis sekarang tutup filenya
+	outfile.close();
 
 	
 }
