@@ -9,5 +9,9 @@ int main()
 		cout << "Selamat Belajar di Prodi TI UMY" << nedl;
 		cout << "pernyataan tidak akan dieksekusi" << endl;
 	}
+	catch (int a) {
+		cout << "Pengecualian akan dieksekusi" << endl;
+	}
+
 
 }
