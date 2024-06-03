@@ -30,5 +30,12 @@ int main() {
 	//menunjuk se sebuah file
 	infile.open("FatanKayang.txt");
 
+	cout << endl << ">= Membuka dan membaca file " << endl;
+	//jika file ada maka
+	if (infile.is_open())
+	{
+
+	}
+
 	
 }
