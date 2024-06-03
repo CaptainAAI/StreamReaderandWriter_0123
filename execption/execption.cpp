@@ -15,6 +15,8 @@ int main()
 	}
 	cout << "Baris Program yang terakhir" << endl;
 
+	return 0;
+
 
 
 
